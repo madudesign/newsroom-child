@@ -8,7 +8,9 @@ Version: 1.0.0
 Text Domain: newsroom
 Template: newsroom
 */
-
+.stop {
+  display: none;
+}
 
 body {
  /*  scroll-behavior: smooth; */
