@@ -10,6 +10,7 @@ Template: newsroom
 */
 .stop {
   display: none;
+  background-color: blue;
 }
 
 body {
