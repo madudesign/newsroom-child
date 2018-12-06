@@ -9,7 +9,7 @@ Text Domain: newsroom
 Template: newsroom
 */
 .stop {
-  display: none;
+  display: flex;
   background-color: blue;
 }
 
